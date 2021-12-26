@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18193" started-at="2021-12-23T02:52:35Z" finished-at="2021-12-23T02:52:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18193" started-at="2021-12-23T02:52:35Z" finished-at="2021-12-23T02:52:53Z">
+      <class name="basicautomatiolevel.Insurance_SignUpNLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:basicautomatiolevel.Insurance_SignUpNLogin@66a3ffec]" name="setup" is-config="true" duration-ms="2847" started-at="2021-12-23T13:22:35Z" finished-at="2021-12-23T13:22:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="user_register()[pri:1, instance:basicautomatiolevel.Insurance_SignUpNLogin@66a3ffec]" name="user_register" duration-ms="9212" started-at="2021-12-23T13:22:38Z" finished-at="2021-12-23T13:22:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_register -->
+        <test-method status="PASS" signature="userLogin_valiCredentials()[pri:2, instance:basicautomatiolevel.Insurance_SignUpNLogin@66a3ffec]" name="userLogin_valiCredentials" duration-ms="3637" started-at="2021-12-23T13:22:47Z" finished-at="2021-12-23T13:22:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin_valiCredentials -->
+        <test-method status="PASS" signature="logout()[pri:3, instance:basicautomatiolevel.Insurance_SignUpNLogin@66a3ffec]" name="logout" duration-ms="1578" started-at="2021-12-23T13:22:51Z" finished-at="2021-12-23T13:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:basicautomatiolevel.Insurance_SignUpNLogin@66a3ffec]" name="teardown" is-config="true" duration-ms="874" started-at="2021-12-23T13:22:52Z" finished-at="2021-12-23T13:22:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- basicautomatiolevel.Insurance_SignUpNLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
