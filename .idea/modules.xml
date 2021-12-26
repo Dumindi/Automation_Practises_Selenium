@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Automation_Practises_Selenium.iml" filepath="$PROJECT_DIR$/.idea/Automation_Practises_Selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicAutomationProject/BasicAutomationProject.iml" filepath="$PROJECT_DIR$/BasicAutomationProject/BasicAutomationProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PageObjectModel/PageObjectModel.iml" filepath="$PROJECT_DIR$/PageObjectModel/PageObjectModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumDataDriven/SeleniumDataDriven.iml" filepath="$PROJECT_DIR$/SeleniumDataDriven/SeleniumDataDriven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WMSProjectAutomation/WMSProjectAutomation.iml" filepath="$PROJECT_DIR$/WMSProjectAutomation/WMSProjectAutomation.iml" />
+    </modules>
+  </component>
+</project>
